@@ -38,3 +38,11 @@ com a letra "a"
 15. Crie um programa que leia uma lista de números do usuário e exiba somente os números menores do que 5
 
 16. Crie um programa que leia uma lista de números do usuário e exiba a soma dos números pares
+
+17. Crie um programa que leia uma lista de números do usuário e exiba a soma dos números ímpares.
+
+18. Crie um programa que leia uma lista de números do usuário e exiba o produto desses números.
+
+19. Crie um programa que leia uma lista de números do usuário e exiba a lista ordenada em ordem crescente.
+
+20.Crie um programa que leia uma lista de números do usuário e exiba a lista ordenada em ordem decrescente.
